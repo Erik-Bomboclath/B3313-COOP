@@ -1,5 +1,5 @@
 # B3313-COOP
-A coopdx romhack that bring almost a full fixed experience of b3313 0.9 lite ports by super alex 64.
+A coopdx romhack that bring almost a full fixed experience of b3313  0.+/0.9 lite ports by super alex 64.
 
 There are 2 versions of my B3313:
 
