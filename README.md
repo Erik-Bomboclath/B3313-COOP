@@ -7,3 +7,5 @@ This is a mod for the amazing sm64coopdx, each release were tested on the newest
 
 ## Abandoned
 yes, sadly i wont problaby update this mod ever again bc im working rn at flood extreme (will be public sometime)
+
+Some downloads are on super alex 64 channel!!!
